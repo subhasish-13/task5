@@ -86,8 +86,8 @@ Age	Survivors tended to be younger
 
 **Deliverables:-**
 
-titanic_analysis.ipynb: Jupyter notebook with step-by-step analysis
+Task5.ipynb: Jupyter notebook with step-by-step analysis
 
-titanic_report.pdf: PDF report summarizing insights
+Task5_report.pdf: PDF report summarizing insights
 
 README.md: Summary of the project and findings
